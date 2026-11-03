@@ -1,0 +1,467 @@
+{"curve": "43556b1", "p": 5, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "5^2 + O(5^3)", "status": "certified", "sec": 6.3}
+{"curve": "45352a1", "p": 5, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "3*5^2 + O(5^3)", "status": "certified", "sec": 4.9}
+{"curve": "47087a1", "p": 5, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "4*5^2 + O(5^3)", "status": "certified", "sec": 5.8}
+{"curve": "47696h1", "p": 5, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "2*5^2 + O(5^3)", "status": "certified", "sec": 6.6}
+{"curve": "49411a1", "p": 5, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "3*5^2 + O(5^3)", "status": "certified", "sec": 6.0}
+{"curve": "53122a1", "p": 5, "r": 3, "n": 4, "vS": 3, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 4.7}
+{"curve": "53957b1", "p": 5, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "2*5^2 + O(5^3)", "status": "certified", "sec": 4.6}
+{"curve": "38600m1", "p": 7, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "7^2 + O(7^3)", "status": "certified", "sec": 5.0}
+{"curve": "49626a1", "p": 7, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "4*7^2 + O(7^3)", "status": "certified", "sec": 4.4}
+{"curve": "51052a1", "p": 7, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "4*7^2 + O(7^3)", "status": "certified", "sec": 7.6}
+{"curve": "53122a1", "p": 7, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "3*7^2 + O(7^3)", "status": "certified", "sec": 5.0}
+{"curve": "54489b1", "p": 7, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "4*7^2 + O(7^3)", "status": "certified", "sec": 9.1}
+{"curve": "59450i1", "p": 7, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "5*7^2 + O(7^3)", "status": "certified", "sec": 17.3}
+{"curve": "61886d1", "p": 7, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "4*7^2 + O(7^3)", "status": "certified", "sec": 10.7}
+{"curve": "33609a1", "p": 11, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "10*11^2 + O(11^3)", "status": "certified", "sec": 6.0}
+{"curve": "61651a1", "p": 19, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "6*19^2 + O(19^3)", "status": "certified", "sec": 14.8}
+{"curve": "36739a1", "p": 29, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "17*29^2 + O(29^3)", "status": "certified", "sec": 44.2}
+{"curve": "62576b1", "p": 13, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "12*13^2 + O(13^3)", "status": "certified", "sec": 9.9}
+{"curve": "65122e1", "p": 7, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "5*7^2 + O(7^3)", "status": "certified", "sec": 7.5}
+{"curve": "70449b1", "p": 7, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "6*7^2 + O(7^3)", "status": "certified", "sec": 18.1}
+{"curve": "73931a1", "p": 7, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "5*7^2 + O(7^3)", "status": "certified", "sec": 15.4}
+{"curve": "74434a1", "p": 5, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "2*5^2 + O(5^3)", "status": "certified", "sec": 14.7}
+{"curve": "78287b1", "p": 7, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "2*7^2 + O(7^3)", "status": "certified", "sec": 14.8}
+{"curve": "81328c1", "p": 7, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "4*7^2 + O(7^3)", "status": "certified", "sec": 21.9}
+{"curve": "87866a1", "p": 5, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "5^2 + O(5^3)", "status": "certified", "sec": 18.2}
+{"curve": "88022a1", "p": 17, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "2*17^2 + O(17^3)", "status": "certified", "sec": 31.0}
+{"curve": "88883a1", "p": 7, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "5*7^2 + O(7^3)", "status": "certified", "sec": 12.2}
+{"curve": "90953a1", "p": 7, "r": 3, "n": 4, "vS": 3, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 15.3}
+{"curve": "91958a1", "p": 5, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "4*5^2 + O(5^3)", "status": "certified", "sec": 18.9}
+{"curve": "94281b1", "p": 5, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "2*5^2 + O(5^3)", "status": "certified", "sec": 37.2}
+{"curve": "98231a1", "p": 13, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "6*13^2 + O(13^3)", "status": "certified", "sec": 50.5}
+{"curve": "63574d1", "p": 5, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "2*5^2 + O(5^3)", "status": "certified", "sec": 12.2}
+{"curve": "67064a1", "p": 11, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "6*11^2 + O(11^3)", "status": "certified", "sec": 12.7}
+{"curve": "71688a1", "p": 7, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "7^2 + O(7^3)", "status": "certified", "sec": 7.1}
+{"curve": "74216a1", "p": 5, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "4*5^2 + O(5^3)", "status": "certified", "sec": 12.0}
+{"curve": "74864b1", "p": 7, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "2*7^2 + O(7^3)", "status": "certified", "sec": 14.0}
+{"curve": "80256a1", "p": 5, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "4*5^2 + O(5^3)", "status": "certified", "sec": 23.9}
+{"curve": "83928b1", "p": 5, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "3*5^2 + O(5^3)", "status": "certified", "sec": 11.0}
+{"curve": "88022a1", "p": 7, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "4*7^2 + O(7^3)", "status": "certified", "sec": 28.6}
+{"curve": "88502f1", "p": 5, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "3*5^2 + O(5^3)", "status": "certified", "sec": 20.5}
+{"curve": "89294a1", "p": 11, "r": 3, "n": 4, "vS": 3, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 17.8}
+{"curve": "91506a1", "p": 5, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "2*5^2 + O(5^3)", "status": "certified", "sec": 13.1}
+{"curve": "92651a1", "p": 11, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "5*11^2 + O(11^3)", "status": "certified", "sec": 22.2}
+{"curve": "97111a1", "p": 13, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "low_prec": [6, 3, 3], "ar": "2*13^2 + O(13^3)", "status": "certified", "sec": 25.5}
+{"curve": "53122a1", "p": 5, "r": 3, "n": 5, "vS": 3, "ar_val": 3, "ar_prec": 4, "low_prec": [7, 4, 4], "ar": "5^3 + O(5^4)", "status": "certified", "sec": 5.3}
+{"curve": "90953a1", "p": 7, "r": 3, "n": 5, "vS": 3, "ar_val": 3, "ar_prec": 4, "low_prec": [7, 4, 4], "ar": "7^3 + O(7^4)", "status": "certified", "sec": 16.4}
+{"curve": "89294a1", "p": 11, "r": 3, "n": 5, "vS": 3, "ar_val": 3, "ar_prec": 4, "low_prec": [7, 4, 4], "ar": "5*11^3 + O(11^4)", "status": "certified", "sec": 23.5}
+{"curve": "60803a1", "p": 89, "r": 3, "n": 4, "vS": 2, "ar_val": 2, "ar_prec": 3, "ar": "84*89^2 + O(89^3)", "status": "certified", "method": "fastsum.py", "sec": 140.8}
+{"curve": "30148b1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*5 + O(5^2)", "status": "certified", "sec": 6.3}
+{"curve": "30148b1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5*11 + O(11^2)", "status": "certified", "sec": 0.2}
+{"curve": "30767d1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "11*17 + O(17^2)", "status": "certified", "sec": 12.1}
+{"curve": "31814a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*5 + O(5^2)", "status": "certified", "sec": 15.0}
+{"curve": "31814a1", "p": 41, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*41 + O(41^2)", "status": "certified", "sec": 13.1}
+{"curve": "32336b1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "6*11 + O(11^2)", "status": "certified", "sec": 15.5}
+{"curve": "32336b1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "8*17 + O(17^2)", "status": "certified", "sec": 0.6}
+{"curve": "32336b1", "p": 31, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "9*31 + O(31^2)", "status": "certified", "sec": 3.9}
+{"curve": "34415a1", "p": 29, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "29 + O(29^2)", "status": "certified", "sec": 15.1}
+{"curve": "35243b1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5*17 + O(17^2)", "status": "certified", "sec": 19.1}
+{"curve": "37229a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*7 + O(7^2)", "status": "certified", "sec": 34.4}
+{"curve": "38601a1", "p": 67, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "57*67 + O(67^2)", "status": "certified", "sec": 68.1}
+{"curve": "39289a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 24.0}
+{"curve": "39289a1", "p": 29, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "20*29 + O(29^2)", "status": "certified", "sec": 2.9}
+{"curve": "39289a1", "p": 61, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "45*61 + O(61^2)", "status": "certified", "sec": 34.2}
+{"curve": "41775k1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*7 + O(7^2)", "status": "certified", "sec": 30.6}
+{"curve": "42153a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 16.3}
+{"curve": "42153a1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "13*17 + O(17^2)", "status": "certified", "sec": 0.6}
+{"curve": "42153a1", "p": 37, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "36*37 + O(37^2)", "status": "certified", "sec": 6.3}
+{"curve": "42528c1", "p": 31, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "17*31 + O(31^2)", "status": "certified", "sec": 16.4}
+{"curve": "42528c1", "p": 41, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "20*41 + O(41^2)", "status": "certified", "sec": 8.9}
+{"curve": "42528c1", "p": 71, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "15*71 + O(71^2)", "status": "certified", "sec": 56.7}
+{"curve": "43976f1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*7 + O(7^2)", "status": "certified", "sec": 22.9}
+{"curve": "43976f1", "p": 67, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "20*67 + O(67^2)", "status": "certified", "sec": 46.9}
+{"curve": "43976f1", "p": 71, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "26*71 + O(71^2)", "status": "certified", "sec": 54.4}
+{"curve": "44755b1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "6*11 + O(11^2)", "status": "certified", "sec": 21.0}
+{"curve": "45352a1", "p": 5, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 18.5}
+{"curve": "46307a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*7 + O(7^2)", "status": "certified", "sec": 15.6}
+{"curve": "47087a1", "p": 5, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 15.7}
+{"curve": "47696h1", "p": 5, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 13.6}
+{"curve": "48444a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 7.7}
+{"curve": "48444a1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*17 + O(17^2)", "status": "certified", "sec": 0.2}
+{"curve": "49411a1", "p": 5, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 9.5}
+{"curve": "49411a1", "p": 79, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "18*79 + O(79^2)", "status": "certified", "sec": 24.8}
+{"curve": "50029c1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "8*13 + O(13^2)", "status": "certified", "sec": 8.7}
+{"curve": "50029c1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "15*19 + O(19^2)", "status": "certified", "sec": 0.2}
+{"curve": "50744c1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*5 + O(5^2)", "status": "certified", "sec": 8.4}
+{"curve": "50744c1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*11 + O(11^2)", "status": "certified", "sec": 0.0}
+{"curve": "51094a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*7 + O(7^2)", "status": "certified", "sec": 14.3}
+{"curve": "52277b1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 18.7}
+{"curve": "52277b1", "p": 29, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "29 + O(29^2)", "status": "certified", "sec": 0.9}
+{"curve": "52277b1", "p": 37, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "33*37 + O(37^2)", "status": "certified", "sec": 2.3}
+{"curve": "53486d1", "p": 73, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "19*73 + O(73^2)", "status": "certified", "sec": 37.7}
+{"curve": "54512b1", "p": 61, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "14*61 + O(61^2)", "status": "certified", "sec": 21.1}
+{"curve": "56982a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*5 + O(5^2)", "status": "certified", "sec": 6.3}
+{"curve": "56982a1", "p": 23, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "22*23 + O(23^2)", "status": "certified", "sec": 0.5}
+{"curve": "59111a1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*11 + O(11^2)", "status": "certified", "sec": 24.7}
+{"curve": "59111a1", "p": 29, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "11*29 + O(29^2)", "status": "certified", "sec": 1.0}
+{"curve": "60055b1", "p": 53, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "50*53 + O(53^2)", "status": "certified", "sec": 20.7}
+{"curve": "61075a1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "14*17 + O(17^2)", "status": "certified", "sec": 19.5}
+{"curve": "61839b1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "6*17 + O(17^2)", "status": "certified", "sec": 16.1}
+{"curve": "62078c1", "p": 97, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "19*97 + O(97^2)", "status": "certified", "sec": 141.0}
+{"curve": "62576b1", "p": 13, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 26.2}
+{"curve": "62576b1", "p": 61, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "9*61 + O(61^2)", "status": "certified", "sec": 24.9}
+{"curve": "63298c1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*5 + O(5^2)", "status": "certified", "sec": 21.8}
+{"curve": "63298c1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "11 + O(11^2)", "status": "certified", "sec": 0.2}
+{"curve": "63472g1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*7 + O(7^2)", "status": "certified", "sec": 24.5}
+{"curve": "64432d1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5*13 + O(13^2)", "status": "certified", "sec": 25.6}
+{"curve": "65509a1", "p": 37, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "16*37 + O(37^2)", "status": "certified", "sec": 31.1}
+{"curve": "66531a1", "p": 29, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "10*29 + O(29^2)", "status": "certified", "sec": 49.5}
+{"curve": "67064a1", "p": 11, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 37.8}
+{"curve": "67064a1", "p": 31, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "10*31 + O(31^2)", "status": "certified", "sec": 2.9}
+{"curve": "67520z1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "6*19 + O(19^2)", "status": "certified", "sec": 58.0}
+{"curve": "67520z1", "p": 47, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "33*47 + O(47^2)", "status": "certified", "sec": 10.6}
+{"curve": "68594b1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 26.7}
+{"curve": "68594b1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "8*11 + O(11^2)", "status": "certified", "sec": 0.2}
+{"curve": "68594b1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*17 + O(17^2)", "status": "certified", "sec": 0.5}
+{"curve": "68594b1", "p": 53, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "52*53 + O(53^2)", "status": "certified", "sec": 17.2}
+{"curve": "68802d1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "8*13 + O(13^2)", "status": "certified", "sec": 17.6}
+{"curve": "69232a1", "p": 53, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "30*53 + O(53^2)", "status": "certified", "sec": 45.3}
+{"curve": "69668b1", "p": 97, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "86*97 + O(97^2)", "status": "certified", "sec": 163.2}
+{"curve": "70436b1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 31.7}
+{"curve": "71145a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*7 + O(7^2)", "status": "certified", "sec": 100.2}
+{"curve": "71688a1", "p": 7, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 21.2}
+{"curve": "72410a1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "10*11 + O(11^2)", "status": "certified", "sec": 57.1}
+{"curve": "73334a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*7 + O(7^2)", "status": "certified", "sec": 47.1}
+{"curve": "73334a1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*19 + O(19^2)", "status": "certified", "sec": 1.6}
+{"curve": "74174a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 38.0}
+{"curve": "74174a1", "p": 23, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "13*23 + O(23^2)", "status": "certified", "sec": 1.0}
+{"curve": "74434a1", "p": 5, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 47.3}
+{"curve": "74434a1", "p": 43, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "33*43 + O(43^2)", "status": "certified", "sec": 7.6}
+{"curve": "74864b1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*5 + O(5^2)", "status": "certified", "sec": 44.7}
+{"curve": "74864b1", "p": 7, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 0.1}
+{"curve": "74864b1", "p": 83, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "48*83 + O(83^2)", "status": "certified", "sec": 75.9}
+{"curve": "75159h1", "p": 31, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "26*31 + O(31^2)", "status": "certified", "sec": 82.5}
+{"curve": "75781a1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "11*13 + O(13^2)", "status": "certified", "sec": 32.4}
+{"curve": "76136c1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "9*13 + O(13^2)", "status": "certified", "sec": 45.0}
+{"curve": "76626e1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*7 + O(7^2)", "status": "certified", "sec": 39.8}
+{"curve": "76626e1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "10*13 + O(13^2)", "status": "certified", "sec": 0.3}
+{"curve": "76784i1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 43.4}
+{"curve": "76784i1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "11 + O(11^2)", "status": "certified", "sec": 0.2}
+{"curve": "77346d1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*5 + O(5^2)", "status": "certified", "sec": 38.1}
+{"curve": "77346d1", "p": 53, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "16*53 + O(53^2)", "status": "certified", "sec": 17.6}
+{"curve": "78185b1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "6*7 + O(7^2)", "status": "certified", "sec": 68.4}
+{"curve": "78185b1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "11*13 + O(13^2)", "status": "certified", "sec": 0.2}
+{"curve": "78344a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*5 + O(5^2)", "status": "certified", "sec": 59.2}
+{"curve": "78344a1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "9*11 + O(11^2)", "status": "certified", "sec": 0.2}
+{"curve": "79317b1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "7*17 + O(17^2)", "status": "certified", "sec": 80.9}
+{"curve": "80256a1", "p": 5, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 75.3}
+{"curve": "80256a1", "p": 89, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "24*89 + O(89^2)", "status": "certified", "sec": 98.5}
+{"curve": "80965a1", "p": 23, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "23 + O(23^2)", "status": "certified", "sec": 33.6}
+{"curve": "81939e1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*5 + O(5^2)", "status": "certified", "sec": 48.5}
+{"curve": "81939e1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*7 + O(7^2)", "status": "certified", "sec": 0.0}
+{"curve": "82538a1", "p": 83, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "8*83 + O(83^2)", "status": "certified", "sec": 53.4}
+{"curve": "82808c1", "p": 67, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "66*67 + O(67^2)", "status": "certified", "sec": 44.0}
+{"curve": "83350a1", "p": 41, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "20*41 + O(41^2)", "status": "certified", "sec": 41.1}
+{"curve": "84650g1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "7*13 + O(13^2)", "status": "certified", "sec": 53.9}
+{"curve": "85863a1", "p": 29, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "18*29 + O(29^2)", "status": "certified", "sec": 36.9}
+{"curve": "86321a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*7 + O(7^2)", "status": "certified", "sec": 23.1}
+{"curve": "86786a1", "p": 23, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "22*23 + O(23^2)", "status": "certified", "sec": 32.0}
+{"curve": "87289b1", "p": 73, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "14*73 + O(73^2)", "status": "certified", "sec": 48.0}
+{"curve": "87634a1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*13 + O(13^2)", "status": "certified", "sec": 31.5}
+{"curve": "88022a1", "p": 7, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 60.9}
+{"curve": "88022a1", "p": 17, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 0.6}
+{"curve": "88022a1", "p": 31, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "13*31 + O(31^2)", "status": "certified", "sec": 3.8}
+{"curve": "88337a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "6*7 + O(7^2)", "status": "certified", "sec": 42.3}
+{"curve": "88337a1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*13 + O(13^2)", "status": "certified", "sec": 0.3}
+{"curve": "88765d1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "6*13 + O(13^2)", "status": "certified", "sec": 102.5}
+{"curve": "88765d1", "p": 23, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "9*23 + O(23^2)", "status": "certified", "sec": 1.5}
+{"curve": "89098a1", "p": 53, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "32*53 + O(53^2)", "status": "certified", "sec": 108.9}
+{"curve": "89475a1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "10*17 + O(17^2)", "status": "certified", "sec": 146.7}
+{"curve": "89992a1", "p": 67, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "26*67 + O(67^2)", "status": "certified", "sec": 123.5}
+{"curve": "90568e1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "11*17 + O(17^2)", "status": "certified", "sec": 58.3}
+{"curve": "90935a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*7 + O(7^2)", "status": "certified", "sec": 102.1}
+{"curve": "91248s1", "p": 41, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "35*41 + O(41^2)", "status": "certified", "sec": 43.7}
+{"curve": "91607a1", "p": 23, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "9*23 + O(23^2)", "status": "certified", "sec": 50.6}
+{"curve": "91607a1", "p": 73, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "29*73 + O(73^2)", "status": "certified", "sec": 20.5}
+{"curve": "91963a1", "p": 53, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "51*53 + O(53^2)", "status": "certified", "sec": 32.2}
+{"curve": "92480bb1", "p": 43, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "7*43 + O(43^2)", "status": "certified", "sec": 74.3}
+{"curve": "92869d1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 35.5}
+{"curve": "92869d1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*17 + O(17^2)", "status": "certified", "sec": 0.3}
+{"curve": "92869d1", "p": 41, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "19*41 + O(41^2)", "status": "certified", "sec": 3.7}
+{"curve": "94259d1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "12*13 + O(13^2)", "status": "certified", "sec": 39.2}
+{"curve": "94259d1", "p": 59, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "58*59 + O(59^2)", "status": "certified", "sec": 10.9}
+{"curve": "94739a1", "p": 31, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5*31 + O(31^2)", "status": "certified", "sec": 32.9}
+{"curve": "95954c1", "p": 31, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "24*31 + O(31^2)", "status": "certified", "sec": 36.3}
+{"curve": "96466b1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "7 + O(7^2)", "status": "certified", "sec": 29.2}
+{"curve": "96937a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*5 + O(5^2)", "status": "certified", "sec": 47.6}
+{"curve": "96937a1", "p": 61, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "49*61 + O(61^2)", "status": "certified", "sec": 7.8}
+{"curve": "97408a1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "11 + O(11^2)", "status": "certified", "sec": 30.4}
+{"curve": "97811a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*5 + O(5^2)", "status": "certified", "sec": 26.4}
+{"curve": "98231a1", "p": 13, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 50.3}
+{"curve": "98231a1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "8*17 + O(17^2)", "status": "certified", "sec": 0.1}
+{"curve": "99248d1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 25.7}
+{"curve": "99248d1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*13 + O(13^2)", "status": "certified", "sec": 0.1}
+{"curve": "99248d1", "p": 23, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "13*23 + O(23^2)", "status": "certified", "sec": 0.3}
+{"curve": "99966a1", "p": 47, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "33*47 + O(47^2)", "status": "certified", "sec": 17.5}
+{"curve": "30376a1", "p": 67, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "64*67 + O(67^2)", "status": "certified", "sec": 58.9}
+{"curve": "31478b1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "15*17 + O(17^2)", "status": "certified", "sec": 8.0}
+{"curve": "31478b1", "p": 29, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "27*29 + O(29^2)", "status": "certified", "sec": 2.6}
+{"curve": "32244c1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5*11 + O(11^2)", "status": "certified", "sec": 13.0}
+{"curve": "32244c1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "13*19 + O(19^2)", "status": "certified", "sec": 0.8}
+{"curve": "33424o1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*11 + O(11^2)", "status": "certified", "sec": 19.1}
+{"curve": "35003a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*7 + O(7^2)", "status": "certified", "sec": 8.9}
+{"curve": "36094c1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "11*13 + O(13^2)", "status": "certified", "sec": 12.6}
+{"curve": "37544c1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*5 + O(5^2)", "status": "certified", "sec": 21.2}
+{"curve": "39023a1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*19 + O(19^2)", "status": "certified", "sec": 10.2}
+{"curve": "39023a1", "p": 61, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "24*61 + O(61^2)", "status": "certified", "sec": 31.0}
+{"curve": "40929a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*5 + O(5^2)", "status": "certified", "sec": 21.4}
+{"curve": "40929a1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "7*17 + O(17^2)", "status": "certified", "sec": 0.6}
+{"curve": "41933a1", "p": 47, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "23*47 + O(47^2)", "status": "certified", "sec": 33.2}
+{"curve": "42264a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*7 + O(7^2)", "status": "certified", "sec": 20.1}
+{"curve": "42264a1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "18*19 + O(19^2)", "status": "certified", "sec": 0.7}
+{"curve": "43556b1", "p": 5, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 21.7}
+{"curve": "44012b1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*13 + O(13^2)", "status": "certified", "sec": 16.2}
+{"curve": "44794c1", "p": 47, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "40*47 + O(47^2)", "status": "certified", "sec": 36.3}
+{"curve": "46024a1", "p": 89, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "10*89 + O(89^2)", "status": "certified", "sec": 137.4}
+{"curve": "46462d1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5*17 + O(17^2)", "status": "certified", "sec": 15.5}
+{"curve": "47440a1", "p": 31, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*31 + O(31^2)", "status": "certified", "sec": 44.7}
+{"curve": "47976d1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 20.6}
+{"curve": "48734b1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "8*11 + O(11^2)", "status": "certified", "sec": 21.1}
+{"curve": "48734b1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5*17 + O(17^2)", "status": "certified", "sec": 0.4}
+{"curve": "49626a1", "p": 7, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 12.4}
+{"curve": "49626a1", "p": 47, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "8*47 + O(47^2)", "status": "certified", "sec": 9.4}
+{"curve": "50121a1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*11 + O(11^2)", "status": "certified", "sec": 12.2}
+{"curve": "50121a1", "p": 37, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "22*37 + O(37^2)", "status": "certified", "sec": 2.1}
+{"curve": "51052a1", "p": 7, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 10.7}
+{"curve": "51317a1", "p": 41, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "33*41 + O(41^2)", "status": "certified", "sec": 17.4}
+{"curve": "52396b1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*5 + O(5^2)", "status": "certified", "sec": 9.6}
+{"curve": "53957b1", "p": 5, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 6.9}
+{"curve": "55064b1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "10*11 + O(11^2)", "status": "certified", "sec": 12.4}
+{"curve": "58774b1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 9.9}
+{"curve": "58774b1", "p": 43, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "14*43 + O(43^2)", "status": "certified", "sec": 3.8}
+{"curve": "59450i1", "p": 7, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 25.7}
+{"curve": "59450i1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "13*17 + O(17^2)", "status": "certified", "sec": 0.2}
+{"curve": "60296a1", "p": 53, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "42*53 + O(53^2)", "status": "certified", "sec": 19.9}
+{"curve": "61229a1", "p": 23, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "8*23 + O(23^2)", "status": "certified", "sec": 13.3}
+{"curve": "61886d1", "p": 7, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 16.7}
+{"curve": "62319c1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*5 + O(5^2)", "status": "certified", "sec": 33.9}
+{"curve": "62319c1", "p": 89, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "28*89 + O(89^2)", "status": "certified", "sec": 44.1}
+{"curve": "62592c1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*5 + O(5^2)", "status": "certified", "sec": 14.2}
+{"curve": "62592c1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "10*11 + O(11^2)", "status": "certified", "sec": 0.1}
+{"curve": "62592c1", "p": 29, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*29 + O(29^2)", "status": "certified", "sec": 1.2}
+{"curve": "63422h1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "12*17 + O(17^2)", "status": "certified", "sec": 14.5}
+{"curve": "63574d1", "p": 5, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 35.5}
+{"curve": "65122e1", "p": 7, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 22.8}
+{"curve": "65563a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*5 + O(5^2)", "status": "certified", "sec": 18.1}
+{"curve": "67037b1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "6*7 + O(7^2)", "status": "certified", "sec": 25.1}
+{"curve": "67119a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*5 + O(5^2)", "status": "certified", "sec": 52.5}
+{"curve": "68309a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*7 + O(7^2)", "status": "certified", "sec": 26.1}
+{"curve": "68751d1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 42.2}
+{"curve": "68751d1", "p": 23, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "20*23 + O(23^2)", "status": "certified", "sec": 1.3}
+{"curve": "68751d1", "p": 89, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "10*89 + O(89^2)", "status": "certified", "sec": 96.6}
+{"curve": "68890d1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "17*19 + O(19^2)", "status": "certified", "sec": 43.1}
+{"curve": "69321a1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "7*11 + O(11^2)", "status": "certified", "sec": 63.2}
+{"curve": "69321a1", "p": 37, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "23*37 + O(37^2)", "status": "certified", "sec": 5.0}
+{"curve": "70022b1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "18*19 + O(19^2)", "status": "certified", "sec": 28.9}
+{"curve": "70449b1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*5 + O(5^2)", "status": "certified", "sec": 57.6}
+{"curve": "70449b1", "p": 7, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 0.1}
+{"curve": "70449b1", "p": 59, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "15*59 + O(59^2)", "status": "certified", "sec": 22.7}
+{"curve": "71215a1", "p": 29, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "12*29 + O(29^2)", "status": "certified", "sec": 50.3}
+{"curve": "72091a1", "p": 37, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "7*37 + O(37^2)", "status": "certified", "sec": 32.8}
+{"curve": "72578a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*5 + O(5^2)", "status": "certified", "sec": 34.4}
+{"curve": "72578a1", "p": 41, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*41 + O(41^2)", "status": "certified", "sec": 7.0}
+{"curve": "73931a1", "p": 7, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 47.2}
+{"curve": "73931a1", "p": 71, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "24*71 + O(71^2)", "status": "certified", "sec": 42.4}
+{"curve": "74216a1", "p": 5, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 37.5}
+{"curve": "74216a1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "11 + O(11^2)", "status": "certified", "sec": 0.2}
+{"curve": "74560p1", "p": 31, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*31 + O(31^2)", "status": "certified", "sec": 70.3}
+{"curve": "74921g1", "p": 23, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "22*23 + O(23^2)", "status": "certified", "sec": 50.3}
+{"curve": "75692a1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "10*11 + O(11^2)", "status": "certified", "sec": 39.8}
+{"curve": "76074b1", "p": 59, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "38*59 + O(59^2)", "status": "certified", "sec": 49.0}
+{"curve": "76338h1", "p": 53, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "28*53 + O(53^2)", "status": "certified", "sec": 38.6}
+{"curve": "76338h1", "p": 89, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "49*89 + O(89^2)", "status": "certified", "sec": 107.7}
+{"curve": "76644c1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "8*13 + O(13^2)", "status": "certified", "sec": 34.4}
+{"curve": "76644c1", "p": 67, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "40*67 + O(67^2)", "status": "certified", "sec": 38.7}
+{"curve": "77336d1", "p": 23, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "23 + O(23^2)", "status": "certified", "sec": 58.6}
+{"curve": "77336d1", "p": 29, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "7*29 + O(29^2)", "status": "certified", "sec": 2.3}
+{"curve": "77555d1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "6*7 + O(7^2)", "status": "certified", "sec": 57.7}
+{"curve": "77555d1", "p": 23, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "14*23 + O(23^2)", "status": "certified", "sec": 1.1}
+{"curve": "78242a1", "p": 61, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "20*61 + O(61^2)", "status": "certified", "sec": 73.1}
+{"curve": "78361a1", "p": 71, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "29*71 + O(71^2)", "status": "certified", "sec": 79.8}
+{"curve": "78361a1", "p": 73, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "71*73 + O(73^2)", "status": "certified", "sec": 47.3}
+{"curve": "80212b1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*7 + O(7^2)", "status": "certified", "sec": 52.7}
+{"curve": "80212b1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*17 + O(17^2)", "status": "certified", "sec": 0.5}
+{"curve": "80351d1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "12*13 + O(13^2)", "status": "certified", "sec": 35.1}
+{"curve": "81063c1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*7 + O(7^2)", "status": "certified", "sec": 58.9}
+{"curve": "81063c1", "p": 41, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "36*41 + O(41^2)", "status": "certified", "sec": 6.6}
+{"curve": "82174c1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*5 + O(5^2)", "status": "certified", "sec": 52.2}
+{"curve": "82539e1", "p": 89, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "43*89 + O(89^2)", "status": "certified", "sec": 150.7}
+{"curve": "83016f1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*17 + O(17^2)", "status": "certified", "sec": 16.8}
+{"curve": "83876a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 29.9}
+{"curve": "85174a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "7 + O(7^2)", "status": "certified", "sec": 31.8}
+{"curve": "85174a1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "6*13 + O(13^2)", "status": "certified", "sec": 0.1}
+{"curve": "85970a1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "11 + O(11^2)", "status": "certified", "sec": 38.1}
+{"curve": "86487a1", "p": 41, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "14*41 + O(41^2)", "status": "certified", "sec": 44.3}
+{"curve": "87116c1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "8*17 + O(17^2)", "status": "certified", "sec": 45.8}
+{"curve": "87116c1", "p": 59, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "11*59 + O(59^2)", "status": "certified", "sec": 21.8}
+{"curve": "87336g1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*5 + O(5^2)", "status": "certified", "sec": 21.7}
+{"curve": "87336g1", "p": 97, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "62*97 + O(97^2)", "status": "certified", "sec": 60.7}
+{"curve": "87866a1", "p": 5, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 29.7}
+{"curve": "87866a1", "p": 61, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "16*61 + O(61^2)", "status": "certified", "sec": 11.8}
+{"curve": "88024a1", "p": 53, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "38*53 + O(53^2)", "status": "certified", "sec": 44.6}
+{"curve": "88502f1", "p": 5, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 32.9}
+{"curve": "88502f1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "7*11 + O(11^2)", "status": "certified", "sec": 0.1}
+{"curve": "88502f1", "p": 47, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "32*47 + O(47^2)", "status": "certified", "sec": 4.6}
+{"curve": "88883a1", "p": 7, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 28.4}
+{"curve": "88883a1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*19 + O(19^2)", "status": "certified", "sec": 0.8}
+{"curve": "88883a1", "p": 71, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*71 + O(71^2)", "status": "certified", "sec": 55.3}
+{"curve": "89294a1", "p": 11, "r": 3, "n": 3, "vS": 3, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 74.9}
+{"curve": "89574a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*7 + O(7^2)", "status": "certified", "sec": 57.5}
+{"curve": "89574a1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*13 + O(13^2)", "status": "certified", "sec": 0.4}
+{"curve": "90297b1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*5 + O(5^2)", "status": "certified", "sec": 89.0}
+{"curve": "90297b1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*13 + O(13^2)", "status": "certified", "sec": 0.2}
+{"curve": "90704c1", "p": 43, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "12*43 + O(43^2)", "status": "certified", "sec": 76.0}
+{"curve": "90953a1", "p": 7, "r": 3, "n": 3, "vS": 3, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 47.5}
+{"curve": "90953a1", "p": 29, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "23*29 + O(29^2)", "status": "certified", "sec": 2.0}
+{"curve": "91341d1", "p": 37, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "9*37 + O(37^2)", "status": "certified", "sec": 356.9}
+{"curve": "91775c1", "p": 79, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "77*79 + O(79^2)", "status": "certified", "sec": 77.3}
+{"curve": "91985b1", "p": 29, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "27*29 + O(29^2)", "status": "certified", "sec": 39.2}
+{"curve": "92553b1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 38.0}
+{"curve": "93087a1", "p": 43, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "28*43 + O(43^2)", "status": "certified", "sec": 68.0}
+{"curve": "94281b1", "p": 5, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 56.3}
+{"curve": "95227g1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "19 + O(19^2)", "status": "certified", "sec": 32.4}
+{"curve": "96163a1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*13 + O(13^2)", "status": "certified", "sec": 29.8}
+{"curve": "96544a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*5 + O(5^2)", "status": "certified", "sec": 35.4}
+{"curve": "96544a1", "p": 29, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "7*29 + O(29^2)", "status": "certified", "sec": 0.7}
+{"curve": "97111a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*5 + O(5^2)", "status": "certified", "sec": 24.8}
+{"curve": "97111a1", "p": 13, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 0.1}
+{"curve": "97423a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*5 + O(5^2)", "status": "certified", "sec": 16.2}
+{"curve": "97423a1", "p": 43, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "32*43 + O(43^2)", "status": "certified", "sec": 2.6}
+{"curve": "97834c1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 26.8}
+{"curve": "98730d1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "7 + O(7^2)", "status": "certified", "sec": 9.6}
+{"curve": "98730d1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*19 + O(19^2)", "status": "certified", "sec": 0.2}
+{"curve": "99378d1", "p": 61, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "58*61 + O(61^2)", "status": "certified", "sec": 20.9}
+{"curve": "99968j1", "p": 29, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "29 + O(29^2)", "status": "certified", "sec": 43.8}
+{"curve": "30446a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*5 + O(5^2)", "status": "certified", "sec": 20.4}
+{"curve": "31737a1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "9*19 + O(19^2)", "status": "certified", "sec": 13.8}
+{"curve": "31737a1", "p": 41, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "25*41 + O(41^2)", "status": "certified", "sec": 9.2}
+{"curve": "32276b1", "p": 31, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "16*31 + O(31^2)", "status": "certified", "sec": 18.6}
+{"curve": "33609a1", "p": 11, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 24.4}
+{"curve": "35083c1", "p": 43, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*43 + O(43^2)", "status": "certified", "sec": 15.6}
+{"curve": "36739a1", "p": 29, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 19.0}
+{"curve": "36739a1", "p": 59, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "53*59 + O(59^2)", "status": "certified", "sec": 27.5}
+{"curve": "38600m1", "p": 7, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 20.5}
+{"curve": "39077c1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 10.9}
+{"curve": "41001a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*7 + O(7^2)", "status": "certified", "sec": 26.4}
+{"curve": "42093a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*5 + O(5^2)", "status": "certified", "sec": 15.7}
+{"curve": "42093a1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "16*19 + O(19^2)", "status": "certified", "sec": 1.0}
+{"curve": "42526b1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "12*17 + O(17^2)", "status": "certified", "sec": 24.1}
+{"curve": "43669a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*7 + O(7^2)", "status": "certified", "sec": 14.3}
+{"curve": "44409b1", "p": 37, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "20*37 + O(37^2)", "status": "certified", "sec": 37.3}
+{"curve": "44869b1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "17*19 + O(19^2)", "status": "certified", "sec": 17.2}
+{"curve": "46222a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*5 + O(5^2)", "status": "certified", "sec": 19.9}
+{"curve": "46672g1", "p": 79, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "69*79 + O(79^2)", "status": "certified", "sec": 105.8}
+{"curve": "47453a1", "p": 59, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "31*59 + O(59^2)", "status": "certified", "sec": 52.3}
+{"curve": "48434c1", "p": 79, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "61*79 + O(79^2)", "status": "certified", "sec": 109.2}
+{"curve": "48856a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 9.5}
+{"curve": "49831a1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*11 + O(11^2)", "status": "certified", "sec": 9.9}
+{"curve": "50382f1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*7 + O(7^2)", "status": "certified", "sec": 6.1}
+{"curve": "51065c1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*13 + O(13^2)", "status": "certified", "sec": 14.3}
+{"curve": "51822d1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*5 + O(5^2)", "status": "certified", "sec": 5.5}
+{"curve": "53122a1", "p": 5, "r": 3, "n": 3, "vS": 3, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 7.3}
+{"curve": "53122a1", "p": 7, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 0.0}
+{"curve": "54489b1", "p": 7, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 13.4}
+{"curve": "56052g1", "p": 41, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "19*41 + O(41^2)", "status": "certified", "sec": 13.6}
+{"curve": "58939a1", "p": 43, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "37*43 + O(43^2)", "status": "certified", "sec": 12.7}
+{"curve": "59704d1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "6*11 + O(11^2)", "status": "certified", "sec": 13.0}
+{"curve": "60803a1", "p": 89, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 52.1}
+{"curve": "61651a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*7 + O(7^2)", "status": "certified", "sec": 16.7}
+{"curve": "61651a1", "p": 19, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 0.6}
+{"curve": "61995a1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "11 + O(11^2)", "status": "certified", "sec": 27.0}
+{"curve": "61995a1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "12*19 + O(19^2)", "status": "certified", "sec": 0.2}
+{"curve": "62546a1", "p": 37, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "7*37 + O(37^2)", "status": "certified", "sec": 23.5}
+{"curve": "63002h1", "p": 73, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "49*73 + O(73^2)", "status": "certified", "sec": 35.8}
+{"curve": "63447a1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "13 + O(13^2)", "status": "certified", "sec": 31.7}
+{"curve": "64018h1", "p": 23, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "20*23 + O(23^2)", "status": "certified", "sec": 23.7}
+{"curve": "65424a1", "p": 41, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*41 + O(41^2)", "status": "certified", "sec": 29.4}
+{"curve": "66170b1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "9*11 + O(11^2)", "status": "certified", "sec": 47.3}
+{"curve": "67042a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*5 + O(5^2)", "status": "certified", "sec": 23.8}
+{"curve": "67042a1", "p": 89, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "25*89 + O(89^2)", "status": "certified", "sec": 91.8}
+{"curve": "67194e1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "8*11 + O(11^2)", "status": "certified", "sec": 20.8}
+{"curve": "68499j1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*19 + O(19^2)", "status": "certified", "sec": 55.3}
+{"curve": "68773a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "6*7 + O(7^2)", "status": "certified", "sec": 24.6}
+{"curve": "69158c1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "7 + O(7^2)", "status": "certified", "sec": 26.9}
+{"curve": "69477a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*5 + O(5^2)", "status": "certified", "sec": 44.6}
+{"curve": "69477a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5*7 + O(7^2)", "status": "certified", "sec": 0.1}
+{"curve": "70363a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*5 + O(5^2)", "status": "certified", "sec": 24.4}
+{"curve": "70363a1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "9*13 + O(13^2)", "status": "certified", "sec": 0.3}
+{"curve": "70363a1", "p": 23, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "18*23 + O(23^2)", "status": "certified", "sec": 1.2}
+{"curve": "70802b1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*5 + O(5^2)", "status": "certified", "sec": 27.2}
+{"curve": "70802b1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "9*11 + O(11^2)", "status": "certified", "sec": 0.2}
+{"curve": "70802b1", "p": 61, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "36*61 + O(61^2)", "status": "certified", "sec": 25.9}
+{"curve": "71288i1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*5 + O(5^2)", "status": "certified", "sec": 49.8}
+{"curve": "71288i1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "14*17 + O(17^2)", "status": "certified", "sec": 0.5}
+{"curve": "72098a1", "p": 23, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "22*23 + O(23^2)", "status": "certified", "sec": 37.4}
+{"curve": "72098a1", "p": 53, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "38*53 + O(53^2)", "status": "certified", "sec": 15.7}
+{"curve": "72701a1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "8*11 + O(11^2)", "status": "certified", "sec": 40.7}
+{"curve": "72701a1", "p": 31, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "15*31 + O(31^2)", "status": "certified", "sec": 2.8}
+{"curve": "74015a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "7 + O(7^2)", "status": "certified", "sec": 48.3}
+{"curve": "74015a1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*11 + O(11^2)", "status": "certified", "sec": 0.1}
+{"curve": "74350c1", "p": 29, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "23*29 + O(29^2)", "status": "certified", "sec": 76.8}
+{"curve": "74350c1", "p": 97, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "97 + O(97^2)", "status": "certified", "sec": 139.3}
+{"curve": "74639b1", "p": 37, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "26*37 + O(37^2)", "status": "certified", "sec": 58.8}
+{"curve": "74639b1", "p": 59, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "21*59 + O(59^2)", "status": "certified", "sec": 22.3}
+{"curve": "74999a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 23.3}
+{"curve": "74999a1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*17 + O(17^2)", "status": "certified", "sec": 0.4}
+{"curve": "75772a1", "p": 83, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "39*83 + O(83^2)", "status": "certified", "sec": 123.1}
+{"curve": "76119a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*7 + O(7^2)", "status": "certified", "sec": 58.2}
+{"curve": "76119a1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "16*17 + O(17^2)", "status": "certified", "sec": 0.5}
+{"curve": "76599a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 58.6}
+{"curve": "76599a1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "9*11 + O(11^2)", "status": "certified", "sec": 0.2}
+{"curve": "76599a1", "p": 47, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "44*47 + O(47^2)", "status": "certified", "sec": 10.5}
+{"curve": "76784h1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "7 + O(7^2)", "status": "certified", "sec": 41.7}
+{"curve": "76784h1", "p": 43, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "26*43 + O(43^2)", "status": "certified", "sec": 7.6}
+{"curve": "77346a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*5 + O(5^2)", "status": "certified", "sec": 39.1}
+{"curve": "77790a1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*17 + O(17^2)", "status": "certified", "sec": 20.2}
+{"curve": "78287b1", "p": 7, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 46.6}
+{"curve": "78923b1", "p": 59, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "26*59 + O(59^2)", "status": "certified", "sec": 50.2}
+{"curve": "78923b1", "p": 61, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "8*61 + O(61^2)", "status": "certified", "sec": 24.9}
+{"curve": "80222a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*5 + O(5^2)", "status": "certified", "sec": 34.6}
+{"curve": "80721b1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*5 + O(5^2)", "status": "certified", "sec": 58.8}
+{"curve": "80721b1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "6*7 + O(7^2)", "status": "certified", "sec": 0.1}
+{"curve": "81328c1", "p": 7, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 68.8}
+{"curve": "82288q1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "7 + O(7^2)", "status": "certified", "sec": 54.6}
+{"curve": "82547b1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "19 + O(19^2)", "status": "certified", "sec": 44.2}
+{"curve": "83111c1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 54.9}
+{"curve": "83928b1", "p": 5, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 33.8}
+{"curve": "83928b1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "14*17 + O(17^2)", "status": "certified", "sec": 0.5}
+{"curve": "83928b1", "p": 31, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "29*31 + O(31^2)", "status": "certified", "sec": 2.9}
+{"curve": "83928b1", "p": 61, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "21*61 + O(61^2)", "status": "certified", "sec": 28.0}
+{"curve": "85318e1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "16*19 + O(19^2)", "status": "certified", "sec": 29.7}
+{"curve": "86007a1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "7*13 + O(13^2)", "status": "certified", "sec": 37.8}
+{"curve": "86007a1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "12*19 + O(19^2)", "status": "certified", "sec": 0.3}
+{"curve": "86611a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*5 + O(5^2)", "status": "certified", "sec": 26.8}
+{"curve": "87194a1", "p": 43, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "42*43 + O(43^2)", "status": "certified", "sec": 42.8}
+{"curve": "87398b1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*7 + O(7^2)", "status": "certified", "sec": 25.6}
+{"curve": "87398b1", "p": 23, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "17*23 + O(23^2)", "status": "certified", "sec": 0.5}
+{"curve": "87914e1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "6*7 + O(7^2)", "status": "certified", "sec": 29.7}
+{"curve": "87914e1", "p": 79, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "44*79 + O(79^2)", "status": "certified", "sec": 38.8}
+{"curve": "88264h1", "p": 29, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "6*29 + O(29^2)", "status": "certified", "sec": 54.3}
+{"curve": "88705c1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "7 + O(7^2)", "status": "certified", "sec": 67.1}
+{"curve": "88975c1", "p": 23, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*23 + O(23^2)", "status": "certified", "sec": 44.7}
+{"curve": "89421b1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "8*13 + O(13^2)", "status": "certified", "sec": 43.1}
+{"curve": "89576d1", "p": 53, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "49*53 + O(53^2)", "status": "certified", "sec": 47.1}
+{"curve": "90312i1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5*13 + O(13^2)", "status": "certified", "sec": 45.8}
+{"curve": "90840a1", "p": 37, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "11*37 + O(37^2)", "status": "certified", "sec": 53.0}
+{"curve": "91031c1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "12*17 + O(17^2)", "status": "certified", "sec": 77.4}
+{"curve": "91031c1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5*19 + O(19^2)", "status": "certified", "sec": 0.9}
+{"curve": "91506a1", "p": 5, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 52.8}
+{"curve": "91958a1", "p": 5, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 62.0}
+{"curve": "92437a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*5 + O(5^2)", "status": "certified", "sec": 47.4}
+{"curve": "92651a1", "p": 11, "r": 3, "n": 3, "vS": 2, "ar_val": null, "ar_prec": 1000000, "low_prec": [1000000, 1000000, 1000000], "ar": "0", "status": "undecided", "sec": 64.9}
+{"curve": "93783a1", "p": 11, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*11 + O(11^2)", "status": "certified", "sec": 103.9}
+{"curve": "94715b1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "3*7 + O(7^2)", "status": "certified", "sec": 85.1}
+{"curve": "95323b1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5*7 + O(7^2)", "status": "certified", "sec": 57.2}
+{"curve": "95323b1", "p": 71, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "71 + O(71^2)", "status": "certified", "sec": 41.1}
+{"curve": "96266d1", "p": 53, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "53 + O(53^2)", "status": "certified", "sec": 81.3}
+{"curve": "96873a1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "14*17 + O(17^2)", "status": "certified", "sec": 80.7}
+{"curve": "96873a1", "p": 73, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "53*73 + O(73^2)", "status": "certified", "sec": 21.0}
+{"curve": "97389a1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "4*7 + O(7^2)", "status": "certified", "sec": 51.4}
+{"curve": "97668f1", "p": 7, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "2*7 + O(7^2)", "status": "certified", "sec": 23.2}
+{"curve": "97668f1", "p": 17, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "11*17 + O(17^2)", "status": "certified", "sec": 0.2}
+{"curve": "97668f1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "12*19 + O(19^2)", "status": "certified", "sec": 0.3}
+{"curve": "98081a1", "p": 5, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5 + O(5^2)", "status": "certified", "sec": 31.2}
+{"curve": "98081a1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "10*13 + O(13^2)", "status": "certified", "sec": 0.1}
+{"curve": "98841c1", "p": 13, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "11*13 + O(13^2)", "status": "certified", "sec": 67.4}
+{"curve": "98841c1", "p": 43, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "43 + O(43^2)", "status": "certified", "sec": 3.8}
+{"curve": "99572b1", "p": 19, "r": 3, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2], "ar": "5*19 + O(19^2)", "status": "certified", "sec": 47.5}

@@ -1,0 +1,1 @@
+{"curve": "234446a1", "p": 157, "r": 4, "n": 3, "vS": 1, "ar_val": 1, "ar_prec": 2, "low_prec": [5, 2, 2, 2], "ar": "34*157 + O(157^2)", "status": "certified", "sec": 502.5}

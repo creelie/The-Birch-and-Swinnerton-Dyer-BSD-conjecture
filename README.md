@@ -40,6 +40,8 @@ curves satisfy the rank part. The conjecture is open.
 | [`literature/10_books_surveys.md`](literature/10_books_surveys.md) | Books and surveys |
 | [`literature/11_unrefereed_claims_2026.md`](literature/11_unrefereed_claims_2026.md) | Unrefereed claims of 2026 |
 | [`literature/12_open_problems.md`](literature/12_open_problems.md) | Open problems and targets |
+| [`paper/`](paper/) | Paper: *The $p$-primary part of the Tate–Shafarevich group in ranks three to six* (36 pp.) |
+| [`results/`](results/) | Its data, programs and Lean 4 certificates |
 | [`references.bib`](references.bib) | 162 references, DOIs checked against Crossref |
 | [`catalogue/`](catalogue/) | 1,438 arXiv records (TSV and JSON), repositories, announced proofs |
 | [`checks/`](checks/) | Numerical BSD check of eight curves of ranks 0–4 (PARI/GP) |
