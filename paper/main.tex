@@ -2,6 +2,7 @@
 \usepackage[margin=1.15in]{geometry}
 \usepackage{amssymb,amsmath,mathtools}
 \usepackage{graphicx,booktabs,array,multicol}
+\usepackage{placeins}
 \usepackage[hidelinks]{hyperref}
 \usepackage[expansion=false]{microtype}
 
@@ -58,11 +59,13 @@
 \email{egspl@proton.me (GitHub-related contact; GitHub account creelie)}
 \urladdr{https://orcid.org/0000-0003-0466-750X}
 
-\subjclass[2020]{11G40, 11G05, 11R23, 11F67, 11G50}
-\keywords{Tate--Shafarevich group, $p$-adic $L$-function, $p$-adic height, Iwasawa main conjecture}
 
 \begin{abstract}
 We prove that $\Sha(E/\Q)[p]=0$ for the rank-four curve $234446a1$ at every prime $5\le p<1000$ except $337$, for the rank-five and rank-six curves of smallest known conductor at small primes, and for the rank-three curves of conductor between $30\,000$ and $100\,000$ at every good ordinary prime $5\le p<100$.
+
+\medskip\noindent\textbf{Keywords:} Tate--Shafarevich group; $p$-adic $L$-function; Iwasawa main conjecture.
+
+\smallskip\noindent\textbf{MSC 2020:} Primary 11G40; Secondary 11G05, 11R23, 11F67, 11G50.
 \end{abstract}
 
 \maketitle
@@ -1075,20 +1078,20 @@ and the $4\times4$ matrix they form has determinant $-1$, a unit modulo $5$. By 
 
 \section{Tables}\label{app:tables}
 
-\begin{table}[h]
+\begin{table}[htbp]
 \centering\small
 \caption{$E_4$: for each good ordinary prime $5\le p<1000$, the residue of $a_4$ modulo $p$ (modulo $p^2$ for $p=7,157$) and the surjectivity witness $(q_1,q_2,q_3)$ of Proposition~\ref{prop:surj}. In every case $v_p(S_p)=0$ except at $7$ and $157$, where $v_p(S_p)=1$.}\label{tab:rank4}
 \footnotesize
 \input{tab_rank4}
 \end{table}
 
-\begin{table}[h]
+\begin{table}[htbp]
 \centering\small
 \caption{The $45$ rank-three pairs with $v_p(S_p)\ge2$, with $a_3$ modulo $p^{v_p(S_p)+1}$. In each case $v_p(a_3)=v_p(S_p)$ and the leading digit of $a_3$ is that of $S_p$.}\label{tab:deep}
 \input{tab_deep}
 \end{table}
 
-\begin{table}[h]
+\begin{table}[htbp]
 \centering\small
 \caption{The rank-three pairs of Theorem~\ref{thm:B} by prime: the number of pairs, their distribution by $v=v_p(S_p)$, the number with $a_p\equiv1\pmod p$ (anomalous), and $p$ times the proportion of irregular pairs. The level at which a pair is settled is $v+2$.}\label{tab:primes}
 \input{tab_primes}
@@ -1096,10 +1099,23 @@ and the $4\times4$ matrix they form has determinant $-1$, a unit modulo $5$. By 
 
 
 
-\section*{Data availability}
+\FloatBarrier
+
+\section*{Declarations}
+
+\subsection*{Data availability}
 The modular symbols, regulators, surjectivity witnesses and auxiliary primes for every pair, the programs that produced them, and Lean~4 files that recheck the surjectivity witnesses, the point counts and the points, are archived in \cite{Archive}. The values were computed with PARI/GP 2.17.4, Cremona's eclib, and the modular-symbol and $p$-adic routines of SageMath 10.8.
 
-\section*{Acknowledgements}
+\subsection*{Funding}
+No funding was received for conducting this study.
+
+\subsection*{Conflict of interest}
+The author has no conflicts of interest to declare that are relevant to the content of this article.
+
+\subsection*{Ethics statement}
+This study involves no human participants, animals or personal data; no ethical approval was required.
+
+\subsection*{Use of AI tools}
 Claude Code (Anthropic) was used to write and run the programs behind the computations and to prepare the manuscript; the author checked every statement and is responsible for the content.
 
 \begingroup\raggedright
