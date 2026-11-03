@@ -5,6 +5,14 @@ conjecture, kept up to date, and the base for new results on it.
 
 Maintainer: Deep Bhattacharjee. Last updated 3 November 2026.
 
+## Releases
+
+| Release | Content | DOI |
+|---|---|---|
+| v1.0.0 | paper on the $p$-primary part of Ш in ranks three to six, data and certificates | [10.5281/zenodo.23931964](https://doi.org/10.5281/zenodo.23931964) |
+
+Concept DOI of all versions: [10.5281/zenodo.23931963](https://doi.org/10.5281/zenodo.23931963).
+
 ## The conjecture
 
 For an elliptic curve $E/\mathbf Q$ with $L$-function $L(E,s)$,
