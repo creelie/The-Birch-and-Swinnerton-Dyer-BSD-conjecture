@@ -1,0 +1,123 @@
+BirchSwinnertonDyer1963|10.1515/crll.1963.212.7|Notes on elliptic curves. {I}|foundations
+BirchSwinnertonDyer1965|10.1515/crll.1965.218.79|Notes on elliptic curves. {II}|foundations
+Cassels1962|10.1515/crll.1962.211.95|Arithmetic on curves of genus 1. {IV}. {P}roof of the {H}auptvermutung|foundations
+Cassels1965|10.1515/crll.1965.217.180|Arithmetic on curves of genus 1. {VIII}. {O}n conjectures of {B}irch and {S}winnerton-{D}yer|foundations
+Tate1974|10.1007/bf01389745|The arithmetic of elliptic curves|foundations;surveys
+Serre1972|10.1007/bf01405086|Propri\'et\'es galoisiennes des points d'ordre fini des courbes elliptiques|galois-images
+Mazur1972|10.1007/bf01389815|Rational points of abelian varieties with values in towers of number fields|iwasawa
+Mazur1977|10.1007/bf02684339|Modular curves and the {E}isenstein ideal|torsion
+Mazur1978|10.1007/bf01390348|Rational isogenies of prime degree|torsion;galois-images
+CoatesWiles1977|10.1007/bf01402975|On the conjecture of {B}irch and {S}winnerton-{D}yer|cm;rank-zero
+Bloch1980|10.1007/bf01402274|A note on height pairings, {T}amagawa numbers, and the {B}irch and {S}winnerton-{D}yer conjecture|generalizations
+Tunnell1983|10.1007/bf01389327|A classical {D}iophantine problem and modular forms of weight 3/2|congruent-numbers
+Schneider1985|10.1007/bf01388978|$p$-adic height pairings. {II}|iwasawa;padic-bsd
+GrossZagier1986|10.1007/bf01388809|Heegner points and derivatives of {$L$}-series|heegner;rank-one
+MazurTateTeitelbaum1986|10.1007/bf01388731|On $p$-adic analogues of the conjectures of {B}irch and {S}winnerton-{D}yer|padic-bsd
+GrossKohnenZagier1987|10.1007/bf01458081|Heegner points and derivatives of {$L$}-series. {II}|heegner
+PerrinRiou1987|10.1007/bf01388982|Points de {H}eegner et d\'eriv\'ees de fonctions {$L$} $p$-adiques|heegner;padic-bsd
+Rubin1987|10.1007/bf01388984|Tate--{S}hafarevich groups and {$L$}-functions of elliptic curves with complex multiplication|cm;sha-finiteness
+Kolyvagin1989|10.1070/im1989v032n03abeh000779|Finiteness of {$E(\mathbf{Q})$} and {Ш}$(E,\mathbf{Q})$ for a subclass of {W}eil curves|euler-systems;rank-zero;rank-one
+Kolyvagin1990|10.1007/978-0-8176-4575-5_11|Euler systems|euler-systems
+BlochKato1990|10.1007/978-0-8176-4574-8_9|{$L$}-functions and {T}amagawa numbers of motives|generalizations
+BumpFriedbergHoffstein1990|10.1007/bf01233440|Nonvanishing theorems for {$L$}-functions of modular forms and their derivatives|nonvanishing
+BertoliniDarmon1990|10.1515/crll.1990.412.63|Kolyvagin's descent and {M}ordell--{W}eil groups over ring class fields|euler-systems
+Ribet1990|10.1007/bf01231195|On modular representations of {$\mathrm{Gal}(\overline{\mathbf{Q}}/\mathbf{Q})$} arising from modular forms|modularity
+Rubin1991|10.1007/bf01239508|The ``main conjectures'' of {I}wasawa theory for imaginary quadratic fields|cm;iwasawa
+Gross1991|10.1017/cbo9780511526053.009|Kolyvagin's work on modular elliptic curves|euler-systems;surveys
+MurtyMurty1991|10.2307/2944316|Mean values of derivatives of modular {$L$}-series|nonvanishing
+Brumer1992|10.1007/bf01232033|The average rank of elliptic curves. {I}|rank-statistics
+GreenbergStevens1993|10.1007/bf01231294|$p$-adic {$L$}-functions and $p$-adic periods of modular forms|padic-bsd
+PerrinRiou1993|10.5802/aif.1362|Fonctions {$L$} $p$-adiques d'une courbe elliptique et points rationnels|padic-bsd
+HeathBrown1994|10.1007/bf01231536|The size of {S}elmer groups for the congruent number problem. {II}|congruent-numbers;rank-statistics
+Wiles1995|10.2307/2118559|Modular elliptic curves and {F}ermat's {L}ast {T}heorem|modularity
+TaylorWiles1995|10.2307/2118560|Ring-theoretic properties of certain {H}ecke algebras|modularity
+Monsky1996|10.1007/bf02622123|Generalizing the {B}irch--{S}tephens theorem|parity
+Zhang1997|10.1007/s002220050179|Heights of {H}eegner cycles and derivatives of {$L$}-series|heegner;generalizations
+Cremona1997|10.1080/10586458.1997.10504599|Computing periods of cusp forms and modular elliptic curves|computation
+Greenberg1999|10.1007/bfb0093453|Iwasawa theory for elliptic curves|iwasawa;surveys
+Rubin1999|10.1007/bfb0093455|Elliptic curves with complex multiplication and the conjecture of {B}irch and {S}winnerton-{D}yer|cm;surveys
+BreuilConradDiamondTaylor2001|10.1090/s0894-0347-01-00370-8|On the modularity of elliptic curves over {$\mathbf{Q}$}: wild 3-adic exercises|modularity
+Zhang2001|10.2307/2661372|Heights of {H}eegner points on {S}himura curves|heegner;generalizations
+Delaunay2001|10.1080/10586458.2001.10504442|Heuristics on {T}ate--{S}hafarevitch groups of elliptic curves defined over {$\mathbf{Q}$}|heuristics
+Ulmer2002|10.2307/3062158|Elliptic curves with large rank over function fields|function-fields;rank-records
+RubinSilverberg2002|10.1090/s0273-0979-02-00952-7|Ranks of elliptic curves|rank-statistics;surveys
+Kurihara2002|10.1007/s002220100206|On the {T}ate {S}hafarevich groups over cyclotomic fields of an elliptic curve with supersingular reduction. {I}|iwasawa;supersingular
+Kobayashi2003|10.1007/s00222-002-0265-4|Iwasawa theory for elliptic curves at supersingular primes|iwasawa;supersingular
+Pollack2003|10.1215/s0012-7094-03-11835-9|On the $p$-adic {$L$}-function of a modular form at a supersingular prime|padic-bsd;supersingular
+KatoTrihan2003|10.1007/s00222-003-0299-2|On the conjectures of {B}irch and {S}winnerton-{D}yer in characteristic $p>0$|function-fields
+Darmon2004|10.1090/cbms/101|Rational points on modular elliptic curves|books;heegner
+DarmonZhang2004|10.1017/cbo9780511756375|Heegner points and {R}ankin {$L$}-series|books;heegner
+MazurRubin2004|10.1090/memo/0799|Kolyvagin systems|euler-systems
+HeathBrown2004|10.1215/s0012-7094-04-12235-3|The average analytic rank of elliptic curves|rank-statistics
+Kato2004|10.24033/ast.639|$p$-adic {H}odge theory and values of zeta functions of modular forms|euler-systems;iwasawa
+Husemoller2004|10.1007/b97292|Elliptic curves|books
+AgasheStein2005|10.1090/s0025-5718-04-01644-8|Visible evidence for the {B}irch and {S}winnerton-{D}yer conjecture for modular abelian varieties of analytic rank zero|computation;generalizations
+Cha2005|10.1016/j.jnt.2004.08.009|Vanishing of some cohomology groups and bounds for the {S}hafarevich--{T}ate groups of elliptic curves|computation;euler-systems
+BertoliniDarmon2005|10.4007/annals.2005.162.1|Iwasawa's main conjecture for elliptic curves over anticyclotomic {$\mathbf{Z}_p$}-extensions|iwasawa
+Young2006|10.1090/s0894-0347-05-00503-5|Low-lying zeros of families of elliptic curves|rank-statistics
+Nekovar2006|10.24033/ast.717|Selmer complexes|iwasawa;generalizations
+Watkins2008|10.1080/10586458.2008.10129019|Some heuristics about elliptic curves|heuristics
+SwinnertonDyer2008|10.1017/s0305004108001588|The effect of twisting on the 2-{S}elmer group|rank-statistics
+Jetchev2008|10.1112/s0010437x08003497|Global divisibility of {H}eegner points and {T}amagawa numbers|computation;heegner
+Silverman2009|10.1007/978-0-387-09494-6|The arithmetic of elliptic curves|books
+JetchevLauterStein2009|10.1016/j.jnt.2008.05.007|Explicit {H}eegner points: {K}olyvagin's conjecture and non-trivial elements in the {S}hafarevich--{T}ate group|computation;heegner
+GJPST2009|10.1090/s0025-5718-09-02253-4|Computational verification of the {B}irch and {S}winnerton-{D}yer conjecture for individual elliptic curves|computation
+DokchitserDokchitser2010|10.4007/annals.2010.172.567|On the {B}irch--{S}winnerton-{D}yer quotients modulo squares|parity
+MazurRubin2010|10.1007/s00222-010-0252-0|Ranks of twists of elliptic curves and {H}ilbert's tenth problem|rank-statistics;applications
+Miller2011|10.1112/s1461157011000180|Proving the {B}irch and {S}winnerton-{D}yer conjecture for specific elliptic curves of analytic rank zero and one|computation
+PollackWeston2011|10.1112/s0010437x11005318|On anticyclotomic $\mu$-invariants of modular forms|iwasawa
+PoonenRains2012|10.1090/s0894-0347-2011-00710-8|Random maximal isotropic subspaces and {S}elmer groups|heuristics
+CreutzMiller2012|10.1016/j.jalgebra.2012.09.029|Second isogeny descents and the {B}irch and {S}winnerton-{D}yer conjectural formula|computation
+Sprung2012|10.1016/j.jnt.2011.11.003|Iwasawa theory for elliptic curves at supersingular primes: a pair of main conjectures|iwasawa;supersingular
+Kobayashi2013|10.1007/s00222-012-0400-9|The $p$-adic {G}ross--{Z}agier formula for elliptic curves at supersingular primes|padic-bsd;supersingular
+SteinWuthrich2013|10.1090/s0025-5718-2012-02649-4|Algorithms for the arithmetic of elliptic curves using {I}wasawa theory|computation;padic-bsd
+BertoliniDarmonPrasanna2013|10.1215/00127094-2142056|Generalized {H}eegner cycles and $p$-adic {R}ankin {$L$}-series|heegner;padic-bsd
+YuanZhangZhang2013|10.23943/princeton/9780691155913.001.0001|The {G}ross--{Z}agier formula on {S}himura curves|heegner;generalizations;books
+Kane2013|10.2140/ant.2013.7.1253|On the ranks of the 2-{S}elmer groups of twists of a given elliptic curve|rank-statistics
+SkinnerUrban2014|10.1007/s00222-013-0448-1|The {I}wasawa main conjectures for {$\mathrm{GL}_2$}|iwasawa;rank-zero
+Zhang2014|10.4310/cjm.2014.v2.n2.a2|Selmer groups and the indivisibility of {H}eegner points|euler-systems;converse
+Tian2014|10.4310/cjm.2014.v2.n1.a4|Congruent numbers and {H}eegner points|congruent-numbers
+CoatesLiTianZhai2015|10.1112/plms/pdu059|Quadratic twists of elliptic curves|rank-statistics;cm
+BhargavaShankar2015a|10.4007/annals.2015.181.1.3|Binary quartic forms having bounded invariants, and the boundedness of the average rank of elliptic curves|rank-statistics
+BhargavaShankar2015b|10.4007/annals.2015.181.2.4|Ternary cubic forms having bounded invariants, and the existence of a positive proportion of elliptic curves having rank 0|rank-statistics
+BKLPR2015|10.4310/cjm.2015.v3.n3.a1|Modeling the distribution of ranks, {S}elmer groups, and {S}hafarevich--{T}ate groups of elliptic curves|heuristics
+Wan2015|10.1017/fms.2015.16|The {I}wasawa main conjecture for {H}ilbert modular forms|iwasawa
+SilvermanTate2015|10.1007/978-3-319-18588-0|Rational points on elliptic curves|books
+BalakrishnanMullerStein2016|10.1090/mcom/3029|A $p$-adic analogue of the conjecture of {B}irch and {S}winnerton-{D}yer for modular abelian varieties|computation;padic-bsd
+Venerucci2016|10.1007/s00222-015-0606-8|Exceptional zero formulae and a conjecture of {P}errin-{R}iou|padic-bsd
+Skinner2016|10.2140/pjm.2016.283.171|Multiplicative reduction and the cyclotomic main conjecture for {$\mathrm{GL}_2$}|iwasawa
+BHKSSW2016|10.1112/s1461157016000152|Databases of elliptic curves ordered by height and distributions of {S}elmer groups and ranks|computation;rank-statistics
+JetchevSkinnerWan2017|10.4310/cjm.2017.v5.n3.a2|The {B}irch and {S}winnerton-{D}yer formula for elliptic curves of analytic rank one|rank-one;bsd-formula
+DarmonRotger2017|10.1090/jams/861|Diagonal cycles and {E}uler systems {II}: the {B}irch and {S}winnerton-{D}yer conjecture for {H}asse--{W}eil--{A}rtin {$L$}-functions|euler-systems;generalizations
+KingsLoefflerZerbes2017|10.4310/cjm.2017.v5.n1.a1|Rankin--{E}isenstein classes and explicit reciprocity laws|euler-systems
+YunZhang2017|10.4007/annals.2017.186.3.2|Shtukas and the {T}aylor expansion of {$L$}-functions|function-fields;higher-derivatives
+TianYuanZhang2017|10.4310/ajm.2017.v21.n4.a5|Genus periods, genus points and congruent number problem|congruent-numbers
+Disegni2017|10.1112/s0010437x17007308|The $p$-adic {G}ross--{Z}agier formula on {S}himura curves|padic-bsd;heegner
+Castella2018|10.4310/cjm.2018.v6.n1.a1|On the $p$-part of the {B}irch--{S}winnerton-{D}yer formula for multiplicative primes|bsd-formula
+DasguptaVoight2018|10.1090/proc/14008|Sylvester's problem and mock {H}eegner points|applications
+KlagsbrunShermanWeigandt2019|10.1090/mcom/3348|The {E}lkies curve has rank 28 subject only to {GRH}|rank-records
+ParkPoonenVoightWood2019|10.4171/jems/893|A heuristic for boundedness of ranks of elliptic curves|heuristics
+KrizLi2019|10.1017/fms.2019.9|Goldfeld's conjecture and congruences between {H}eegner points|rank-statistics
+BKLOS2019|10.1215/00127094-2019-0031|3-isogeny {S}elmer groups and ranks of abelian varieties in quadratic twist families over a number field|rank-statistics
+Skinner2020|10.4007/annals.2020.191.2.1|A converse to a theorem of {G}ross, {Z}agier, and {K}olyvagin|converse
+BurungaleTian2020|10.1007/s00222-019-00929-7|$p$-converse to a theorem of {G}ross--{Z}agier, {K}olyvagin and {R}ubin|converse;cm
+BurungaleCastellaKim2021|10.2140/ant.2021.15.1627|A proof of {P}errin-{R}iou's {H}eegner point main conjecture|iwasawa;heegner
+BurungaleSkinnerTian2021|10.1090/pspum/104/01876|The {B}irch and {S}winnerton-{D}yer conjecture: a brief survey|surveys
+CastellaGrossiLeeSkinner2022|10.1007/s00222-021-01072-y|On the anticyclotomic {I}wasawa theory of rational elliptic curves at {E}isenstein primes|iwasawa;eisenstein
+KellerStoll2022|10.5802/crmath.313|Exact verification of the strong {BSD} conjecture for some absolutely simple abelian surfaces|computation;generalizations
+CastellaLiuWan2022|10.1017/fms.2022.95|Iwasawa--{G}reenberg main conjecture for nonordinary modular forms and {E}isenstein congruences on {$\mathrm{GU}(3,1)$}|iwasawa;supersingular
+vanBommel2022|10.1080/10586458.2019.1592035|Numerical verification of the {B}irch and {S}winnerton-{D}yer conjecture for hyperelliptic curves of higher genus over {$\mathbf{Q}$} up to squares|computation;generalizations
+BurungaleFlach2024|10.4310/cjm.2024.v12.n2.a2|The conjecture of {B}irch and {S}winnerton-{D}yer for certain elliptic curves with complex multiplication|cm;bsd-formula
+KellerStoll2025|10.1017/fms.2024.133|Complete verification of strong {BSD} for many modular abelian surfaces over {$\mathbf{Q}$}|computation;generalizations
+Smith2025|10.1090/jams/1062|The distribution of $\ell^\infty$-{S}elmer groups in degree $\ell$ twist families {I}|rank-statistics
+KoymansPagano2026|10.1090/jams/1081|Hilbert's tenth problem via additive combinatorics|applications
+CoatesLiangSujatha2009|10.1016/j.jalgebra.2009.04.039|The {T}ate--{S}hafarevich group for elliptic curves with complex multiplication|cm;rank-two;sha-finiteness
+CoatesLiangSujatha2010|10.1007/s00032-010-0127-2|The {T}ate--{S}hafarevich group for elliptic curves with complex multiplication {II}|cm;rank-two;sha-finiteness
+Wuthrich2007|10.1090/s1056-3911-06-00436-x|Iwasawa theory of the fine {S}elmer group|iwasawa
+Wuthrich2018|10.1090/mcom/3274|Numerical modular symbols for elliptic curves|computation
+PollackStevens2011|10.24033/asens.2139|Overconvergent modular symbols and $p$-adic {$L$}-functions|padic-bsd;computation
+Kim2026|10.1353/ajm.2026.a980769|The structure of {S}elmer groups and the {I}wasawa main conjecture for elliptic curves|iwasawa
+Rubin2000|10.1515/9781400865208|Euler systems|books;euler-systems
+BuhlerGrossZagier1985|10.2307/2007967|On the conjecture of {B}irch and {S}winnerton-{D}yer for an elliptic curve of rank 3|rank-three;computation
+Goldfeld1979|10.1007/BFb0062705|Conjectures on elliptic curves over quadratic fields|rank-statistics;heuristics
+Milne1975|10.2307/1971042|On a conjecture of {A}rtin and {T}ate|function-fields;foundations
