@@ -11,6 +11,7 @@ Maintainer: Deep Bhattacharjee. Last updated 3 November 2026.
 |---|---|---|
 | v1.0.0 | paper on the $p$-primary part of Ш in ranks three to six, data and certificates | [10.5281/zenodo.23931964](https://doi.org/10.5281/zenodo.23931964) |
 | v1.0.1 | declarations, keywords and MSC under the abstract, tables before the references | [10.5281/zenodo.23933186](https://doi.org/10.5281/zenodo.23933186) |
+| v1.0.2 | every reference checked against Crossref and the publishers | [10.5281/zenodo.23933270](https://doi.org/10.5281/zenodo.23933270) |
 
 Concept DOI of all versions: [10.5281/zenodo.23931963](https://doi.org/10.5281/zenodo.23931963).
 
