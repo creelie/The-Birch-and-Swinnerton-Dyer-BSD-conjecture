@@ -1,2 +1,9 @@
 .crossref_cache/
 __pycache__/
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.fls
+paper/*.fdb_latexmk
+paper/build.log
+__pycache__/

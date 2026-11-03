@@ -1,0 +1,14 @@
+E=ellinit([1,-1,0,-79,289]); p=5; n=12; P=18;
+s2=ellpadics2(E,p,n); b2=E.b2; e2=b2-12*s2; print("s2=",s2); print("e2=",e2);
+F=ellpadicfrobenius(E,p,n); v=[s2,1]~; print("F=",F); print("Fv/v=",[(F*v)[1]/v[1],(F*v)[2]/v[2]]);
+XY=ellformalpoint(E,P,'t); X=XY[1]; print("x(t)=",X+O(t^6));
+om=ellformaldifferential(E,P,'t)[1]; print("omega=",om+O(t^6));
+z=intformal(om,'t); print("z=",z+O(t^7));
+tz=subst(serreverse(z),t,'u); print("t(u)=",tz+O(u^6));
+pz=subst(X,t,tz)+b2/12; print("x+b2/12 in u=",pz+O(u^10));
+L=-sum(k=1,6,polcoef(pz,2*k,'u)*u^(2*k+2)/((2*k+1)*(2*k+2)))+e2*u^2/24+O(u^15);
+sig=subst(u*exp(L),u,z); print("sigma(t)=",sig+O(t^7));
+print("vals=",vector(12,k,valuation(polcoef(sig,k,'t),p)));
+Q=ellmul(E,[6,-1],10); tq=-Q[1]/Q[2]; e=sqrtint(denominator(Q[1])); print("v5 t=",valuation(tq,p)," e=",e);
+sv=subst(truncate(sig),t,tq+O(p^14)); h=2*log(e/sv)/100; print("h(P1)=",h);
+hh=ellpadicheight(E,p,6,[6,-1]); print("pari=",hh, " a-s2b=",hh[1]-s2*hh[2]);
