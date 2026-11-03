@@ -1,0 +1,20 @@
+{
+  "title": "The p-primary part of the Tate-Shafarevich group in ranks three to six: paper, data and certificates",
+  "upload_type": "software",
+  "description": "<p>LaTeX source and PDF of the paper <em>The p-primary part of the Tate-Shafarevich group in ranks three to six</em>, with the data, programs and Lean 4 files behind it.</p><p>The paper proves Sha(E/Q)[p] = 0 for the rank-four curve 234446a1 at every prime 5 &le; p &lt; 1000 except 337, for the rank-five and rank-six curves of Elkies and Watkins at small primes, and for the 494 isogeny classes of rank three with conductor between 30,000 and 100,000 at every good ordinary prime 5 &le; p &lt; 100. It does not prove the Birch and Swinnerton-Dyer conjecture or the finiteness of Sha for any curve of rank at least two.</p>",
+  "creators": [
+    {
+      "name": "Bhattacharjee, Deep",
+      "orcid": "0000-0003-0466-750X"
+    }
+  ],
+  "keywords": [
+    "Tate-Shafarevich group",
+    "p-adic L-function",
+    "p-adic height",
+    "Iwasawa main conjecture",
+    "Birch and Swinnerton-Dyer conjecture"
+  ],
+  "license": "MIT",
+  "access_right": "open"
+}
